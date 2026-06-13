@@ -64,13 +64,10 @@ python Barnsley (matplotlib).py
 
 The program generates the famous Barnsley Fern fractal, a mathematical structure that resembles a natural fern leaf.
 
-Add screenshots here:
-
-```md
 ![Turtle Version](images/turtle_output.png)
 
 ![Matplotlib Version](images/matplotlib_output.png)
-```
+
 
 ## How It Works
 
